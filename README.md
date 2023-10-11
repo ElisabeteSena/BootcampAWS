@@ -28,4 +28,7 @@ FimAlgoritmo
 
 
 # Em Portugol
-![dadosUsuario](https://github.com/ElisabeteSena/BootcampAWS/assets/89859713/a4ae8666-c598-41f5-b7fe-e658aaf5c8da)
+![image](https://github.com/ElisabeteSena/BootcampAWS/assets/89859713/4e150ceb-09a0-4004-a6ce-caac3688fa89)
+
+![dadosUsuario2](https://github.com/ElisabeteSena/BootcampAWS/assets/89859713/0b0b19ba-77cc-42a2-97f3-77ee420e3091)
+
