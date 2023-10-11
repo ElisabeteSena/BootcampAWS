@@ -5,7 +5,7 @@ programa {
     caracter endereco
     caracter cidade
     inteiro cpf
-    caracter rg
+    inteiro  rg
 
     escreva("Digite seu nome: ")
     leia (nome)
