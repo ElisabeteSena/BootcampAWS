@@ -3,13 +3,13 @@ Desenvolvimento lógica imperativa
 
 # notas
 
-Variavel
+Var
 
     nome:     caracter
     endereco: caracter 
     cidade:   caracter 
     cpf:      inteiro 
-    rg:      caracter 
+    rg:       inteiro 
 
 Inicio
 
