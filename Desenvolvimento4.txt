@@ -1,0 +1,23 @@
+
+Variavel
+
+    nome:     caracter
+    endereco: caracter 
+    cidade:   caracter 
+    cpf:      inteiro 
+    rg:      caracter 
+
+Inicio
+
+    escreva("Digite seu nome: ")
+    leia (nome)
+    escreva("Qual seu endereco: ")
+    leia(endereco)
+    escreva("Qual sua cidade: ")
+    leia(cidade)
+    escreva("Qual seu CPF: ")
+    leia(cpf)
+    escreva("Qual seu RG: ")
+    leia(rg)
+
+FimAlgoritmo
